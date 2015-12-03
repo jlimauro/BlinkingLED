@@ -1,0 +1,10 @@
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/bin/Debug/Enterprisecoding.RPI.GPIO.dll
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/bin/Debug/BlinkingLED.exe.mdb
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/bin/Debug/BlinkingLED.exe
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/obj/x86/Debug/BlinkingLED.exe
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/obj/x86/Debug/BlinkingLED.exe.mdb
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/bin/Debug/Raspberry.System.dll
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/bin/Debug/Raspberry.IO.dll
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/bin/Debug/Raspberry.IO.GeneralPurpose.dll
+/Users/Jeffrey/Source Code/BlinkingLED/BlinkingLED/bin/Debug/Raspberry.IO.Interop.dll
